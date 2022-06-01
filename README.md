@@ -1,5 +1,6 @@
 # vue-lab1
-
+## GIF Demo: 
+![screen-gif](./documentation/vueDemo.gif)
 ## Project setup
 ```
 npm install
